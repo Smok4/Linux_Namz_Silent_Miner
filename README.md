@@ -14,20 +14,6 @@ Ce dépôt propose une suite de scripts Bash pour démontrer, dans un **environn
 
 L’ensemble est conçu pour fonctionner **en silence**, sans afficher de sortie à l’écran, dans un contexte de **simulation de compromission** pour test défensif ou formation.
 
----
-
-## 📁 Structure du projet
-
-namz_lab/
-├── start_all_namz.sh # Lance les 3 scripts dans l’ordre, sans sortie
-├── payload_namz.sh # Simule un processus camouflé (ex : "kworker")
-├── evasion_namz.sh # Arrête/redémarre le payload selon les outils actifs
-├── persistance_namz.sh # Installe une persistance via systemd
-├── README.md
-
-yaml
-Copier
-Modifier
 
 ---
 
