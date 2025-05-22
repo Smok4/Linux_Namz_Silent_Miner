@@ -23,9 +23,6 @@ L’ensemble est conçu pour fonctionner **en silence**, sans afficher de sortie
 ```bash
 chmod +x *.sh
 2. Lancer le script principal
-bash
-Copier
-Modifier
 ./start_all_namz.sh
 Ce script exécutera :
 
