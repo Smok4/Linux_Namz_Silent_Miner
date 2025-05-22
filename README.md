@@ -43,7 +43,7 @@ Modifier
 ./start_all_namz.sh
 Ce script exécutera :
 
-Le faux "payload"
+Le "payload"
 
 Le système de détection de surveillance (top, htop, etc.)
 
